@@ -12,6 +12,19 @@
 
 <h3>EXPLICACIÓN DEL PROCEDIMIENTO</h3>
 
+**Material y Equipo Requerido**
+
+|**Cantidad**|**Material o Equipo**|
+|------------|---------------------|
+|1| Fuente de Voltaje de C.D.|
+|1|Multímetro Digital|
+|1|Resistor 820 Ω|
+|1|Resitor 390 Ω|
+|1|Resistor 1 kΩ|
+|1|Resistor 1.2 kΩ|
+|1|Resistor 2.2 kΩ|
+|1|Protoboard|
+
 - Implemente el circuito que se presenta en la figura 3.1.
 
 ![image](https://user-images.githubusercontent.com/93739242/143947768-548fdd2e-91ed-44b4-9c32-06f390e03371.png)
@@ -22,7 +35,12 @@
 - 
 <h3>RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR</h3>
 
-Tabla 3.1. Resultados obtenidos para el circuito de la figura 3.1.
+**Tabla 3.1.** Resultados obtenidos para el circuito de la figura 3.1.
+
+|  **NODO**  |   **Resultados Analíticos**   |  **Resultados Experimentales**   |    **Resultados Simulados**    |
+|------|-------|-----|-------|
+|   A    | 2.82 V  |  2.82 V    |  2.82 V    |
+|    B   |  4.8 V |   4.8 V   |   4.8 V   |
 
 
 <h3>VIDEO</h3>

@@ -43,6 +43,13 @@
 |    B   |  4.8 V |   4.8 V   |   4.8 V   |
 
 
+
+![imagen](https://user-images.githubusercontent.com/93798427/143974155-1f047b23-ed65-48c6-afba-58514fc186ab.png)
+
+![imagen](https://user-images.githubusercontent.com/93798427/143974246-6b00d565-d0dd-4a3a-8e03-b2adedc16498.png)
+
+
+ 
 <h3>VIDEO</h3>
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.

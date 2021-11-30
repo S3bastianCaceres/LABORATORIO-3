@@ -3,6 +3,11 @@
 
 <h3>OBJETIVOS</h3>
 
+-Analizar el circuito esquemático mediante la simulacion del mismo en tinkercad y proteus para obtener valores de medida utilizando el análisis de nodos.
+
+-Establecer los nodos correspondientes al circuito y el nodo de referencia para establecer las ecuaciones correspondientes por cada rama.
+
+-Calcular los valores de corriente presentes en las ramas que salen de los nodos y comparar las medidas teoricas, practicas y simuladas.
 
 
 <h3>MARCO TEÓRICO</h3>

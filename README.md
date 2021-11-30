@@ -69,7 +69,7 @@ La ubicación de cada uno de los nodos depende si estos se unen con 2 o mas comp
 
 Las medidas obtenidas de los simuladores tienen un margen de error del 0%, siendo asi medidas exactas ya que se trabaja con simuladores y componentes ideales.
 
-
+Para el calculo matemático del circuito se uso el análisis de nodos y ley de ohm, obteniendo asi ecuaciones por cada rama partiendo de los nodos principales, obteniendo asi ecuaciones para igualar y reemplazar para obtener los voltajes presentes en los nodos de referencia principales.
 
 <h3>BIBLIOGRAFÍA</h3>
 

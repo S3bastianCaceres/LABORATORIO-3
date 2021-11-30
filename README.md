@@ -3,7 +3,8 @@
 
 <h3>OBJETIVOS</h3>
 
--Analizar el circuito esquemático mediante la simulacion del mismo en tinkercad y proteus para obtener valores de medida utilizando el análisis de nodos.
+
+-Analizar el circuito esquemático mediante la simulacion del mismo en tinkercad y proteus para obtener valores de medida y comparar estos datos con la solucion del circuito por el metodo de análisis de nodos.
 
 -Establecer los nodos correspondientes al circuito y el nodo de referencia para establecer las ecuaciones correspondientes por cada rama.
 
@@ -62,6 +63,13 @@ Aqui den estar el link de youtube de los videos en los que se explique el funcio
 <h3>CONCLUSIONES</h3>
 
 Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+
+
+La ubicación de cada uno de los nodos depende si estos se unen con 2 o mas componentes, asi se puede establecer si son nodos principales, y el nodo de referencia que se ubica donde este mas serca de los polos negativos y tiene un mayor numero de componentes conectados.
+
+Las medidas obtenidas de los simuladores tienen un margen de error del 0%, siendo asi medidas exactas ya que se trabaja con simuladores y componentes ideales.
+
+
 
 <h3>BIBLIOGRAFÍA</h3>
 
